@@ -28,7 +28,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
+- [Pyrogram String Session](p)
     
 </details>
 
@@ -69,7 +69,8 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 ```console
 shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ cd 
+FckyMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
@@ -78,7 +79,7 @@ shikhar@MacBook~ $ cp sample.env .env
 shikhar@MacBook~ $ bash start
 ```
 
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/OfficialYukki/2275)
+> Not Getting VPS Method? [Watch Tutorial](https://t.me/roomsukasuka/2275)
 </details>
 
 ## Config Vars
